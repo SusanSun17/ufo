@@ -75,6 +75,8 @@ set ( filters_files
       PoissonDiskThinning.h
       PoissonDiskThinningParameters.cc
       PoissonDiskThinningParameters.h
+      PracticalBoundsCheck.cc
+      PracticalBoundsCheck.h
       processWhere.cc
       processWhere.h
       actions/AssignError.cc
